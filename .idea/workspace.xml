@@ -239,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738098189039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day00">
+      <option name="closed" value="true" />
+      <created>1742553513084</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742553513084</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,6 +265,7 @@
     <MESSAGE value="day02-typeCasting,snakeCase,variables" />
     <MESSAGE value="day04" />
     <MESSAGE value="day08" />
-    <option name="LAST_COMMIT_MESSAGE" value="day08" />
+    <MESSAGE value="day00" />
+    <option name="LAST_COMMIT_MESSAGE" value="day00" />
   </component>
 </project>
